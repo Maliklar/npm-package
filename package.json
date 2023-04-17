@@ -1,0 +1,22 @@
+{
+  "name": "maliklar-test-package",
+  "version": "1.0.0",
+  "description": "This package doesn't do anything it is just me trying to publish a package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maliklar/npm-package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Malik Elbadri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maliklar/npm-package/issues"
+  },
+  "homepage": "https://github.com/Maliklar/npm-package#readme"
+}
